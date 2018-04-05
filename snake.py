@@ -1,6 +1,14 @@
+
+
+##Rusty Clayton
+##4/5/2018
+##Snake Game
+
 import turtle
 import time
 import random
+
+
 
 def main():
     wn=turtle.Screen()
